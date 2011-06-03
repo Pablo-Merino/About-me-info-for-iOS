@@ -1,0 +1,208 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Pablo */ = {
+		activeExec = 0;
+		executables = (
+			6EB1D6CA1396BB0D00EE43D3 /* Pablo */,
+		);
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {933, 475}}";
+			sepNavSelRange = "{242, 0}";
+			sepNavVisRange = "{0, 251}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{6121, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{6172, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{6222, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 6984}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1076, 2886}}";
+			sepNavSelRange = "{5896, 0}";
+			sepNavVisRange = "{448, 1434}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6EB1D6CA1396BB0D00EE43D3 /* Pablo */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Pablo */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Pablo */,
+		);
+		codeSenseManager = 6EB1D6F51396BB2800EE43D3 /* Code sense */;
+		executables = (
+			6EB1D6CA1396BB0D00EE43D3 /* Pablo */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					755,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 328814022;
+			PBXWorkspaceStateSaveDate = 328814022;
+		};
+		perUserProjectItems = {
+			6E1F5ACF139945F400BC8CD4 = 6E1F5ACF139945F400BC8CD4 /* PBXTextBookmark */;
+			6E1F5AD1139945F400BC8CD4 = 6E1F5AD1139945F400BC8CD4 /* PBXTextBookmark */;
+			6E1F5BF5139946A000BC8CD4 = 6E1F5BF5139946A000BC8CD4 /* PBXTextBookmark */;
+			6E1F5CF613994AE200BC8CD4 = 6E1F5CF613994AE200BC8CD4 /* PBXTextBookmark */;
+			6E1F5D1613994C8700BC8CD4 = 6E1F5D1613994C8700BC8CD4 /* PBXTextBookmark */;
+			6E61E17D13994DC300D3AC18 = 6E61E17D13994DC300D3AC18 /* PBXTextBookmark */;
+			6EF397F513994DC600BC98E2 /* PBXTextBookmark */ = 6EF397F513994DC600BC98E2 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6EB1D6F41396BB2800EE43D3 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	6E1F5AB0139944C000BC8CD4 /* TwitterViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {933, 474}}";
+			sepNavSelRange = "{259, 0}";
+			sepNavVisRange = "{0, 311}";
+		};
+	};
+	6E1F5AB1139944C000BC8CD4 /* TwitterViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{3599, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{3650, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{3700, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 4401}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {908, 2132}}";
+			sepNavSelRange = "{1498, 0}";
+			sepNavVisRange = "{1342, 463}";
+		};
+	};
+	6E1F5ACF139945F400BC8CD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 187";
+		rLen = 0;
+		rLoc = 5896;
+		rType = 0;
+		vrLen = 1434;
+		vrLoc = 448;
+	};
+	6E1F5AD1139945F400BC8CD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 12";
+		rLen = 0;
+		rLoc = 242;
+		rType = 0;
+		vrLen = 251;
+		vrLoc = 0;
+	};
+	6E1F5BF5139946A000BC8CD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1F5AB1139944C000BC8CD4 /* TwitterViewController.m */;
+		name = "TwitterViewController.m: 23";
+		rLen = 0;
+		rLoc = 500;
+		rType = 0;
+		vrLen = 738;
+		vrLoc = 0;
+	};
+	6E1F5CD913994AB500BC8CD4 /* TouchXML.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {933, 494}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1486}";
+		};
+	};
+	6E1F5CF613994AE200BC8CD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1F5CD913994AB500BC8CD4 /* TouchXML.h */;
+		name = "TouchXML.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1486;
+		vrLoc = 0;
+	};
+	6E1F5D1613994C8700BC8CD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1F5AB0139944C000BC8CD4 /* TwitterViewController.h */;
+		name = "TwitterViewController.h: 13";
+		rLen = 0;
+		rLoc = 260;
+		rType = 0;
+		vrLen = 306;
+		vrLoc = 0;
+	};
+	6E61E17D13994DC300D3AC18 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1F5AB0139944C000BC8CD4 /* TwitterViewController.h */;
+		name = "TwitterViewController.h: 13";
+		rLen = 0;
+		rLoc = 254;
+		rType = 0;
+		vrLen = 306;
+		vrLoc = 0;
+	};
+	6EB1D6CA1396BB0D00EE43D3 /* Pablo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Pablo;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	6EB1D6F41396BB2800EE43D3 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6EB1D6F51396BB2800EE43D3 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6EF397F513994DC600BC98E2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1F5AB0139944C000BC8CD4 /* TwitterViewController.h */;
+		name = "TwitterViewController.h: 13";
+		rLen = 0;
+		rLoc = 254;
+		rType = 0;
+		vrLen = 306;
+		vrLoc = 0;
+	};
+}
