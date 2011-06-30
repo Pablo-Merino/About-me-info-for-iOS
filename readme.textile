@@ -1,0 +1,8 @@
+h2. About the app or the dev for iOS
+
+-----------------------------------------------------
+
+h3. This is a simple About the dev or about the app view for iOS, simple as hell, load it with a simple modal call:
+AboutViewController *tempView = [[AboutViewController alloc] initWithNibName:@"AboutViewController" bundle:nil];
+[self presentModalViewController:tempView animated:YES];
+
